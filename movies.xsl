@@ -39,7 +39,7 @@
           <xsl:for-each select="movie">
             <xsl:sort select="title/text()" />
             <div class="col g-4 mx-auto">
-              <div class="card bg-dark-subtle text-light p-2 m-2 h-100">
+              <div class="card text-bg-success p-2 m-2 h-100">
                 <h3 class="card-title"><xsl:value-of select="title" /></h3>
                 <p class="card-subtitle"><xsl:value-of select="year" /></p>
                 <p class="card-subtitle">
@@ -51,7 +51,7 @@
                     <xsl:value-of select="concat(text(), '; ')" />
                   </xsl:for-each>
                 </p>
-                <a class="card-link">
+                <a class="card-link text-light">
                   <xsl:attribute name="href">
                     <xsl:value-of
                       select="concat('https://www.imdb.com/title/', child::title/@imdb)"

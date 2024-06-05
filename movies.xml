@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="movies.xsl" type="text/xsl"?>
+<movies>
+    <movie>
+        <title imdb="tt12004038">Watcher</title>
+        <year>2022</year>
+        <director>Chloe Okuno</director>
+        <genres>
+            <genre>Drama</genre>
+            <genre>Thriller</genre>
+        </genres>
+    </movie>
+    <movie>
+        <title imdb="tt0077651">Halloween</title>
+        <year>1978</year>
+        <director>John Carpenter</director>
+        <genres>
+            <genre>Horror</genre>
+            <genre>Thriller</genre>
+        </genres>
+    </movie>
+    <movie>
+        <title imdb="tt15791034">Barbarian</title>
+        <year>2022</year>
+        <director>Zach Cregger</director>
+        <genres>
+            <genre>Horror</genre>
+            <genre>Mystery</genre>
+            <genre>Thriller</genre>
+        </genres>
+    </movie>
+    <movie>
+        <title imdb="tt1877832">X-Men: Days of Future Past</title>
+        <year>2014</year>
+        <director>Bryan Singer</director>
+        <genres>
+            <genre>Action</genre>
+            <genre>Adventure</genre>
+            <genre>Sci-Fi</genre>
+        </genres>
+    </movie>
+    <movie>
+        <title imdb="tt0109506">The Crow</title>
+        <year>1994</year>
+        <director>Alex Proyas</director>
+        <genres>
+            <genre>Action</genre>
+            <genre>Crime</genre>
+            <genre>Drama</genre>
+        </genres>
+    </movie>
+    <movie>
+        <title imdb="tt0089424">Kiss of the Spider Woman</title>
+        <year>1985</year>
+        <director>Hector Babenco</director>
+        <genres>
+            <genre>Drama</genre>
+        </genres>
+    </movie>
+    <movie>
+        <title imdb="tt0106364">Batman: Mask of the Phantasm</title>
+        <year>1993</year>
+        <director>Kevin Altieri, Boyd Kirkland, Frank Paur</director>
+        <genres>
+            <genre>Animation</genre>
+            <genre>Action</genre>
+            <genre>Adventure</genre>
+        </genres>
+    </movie>
+    <movie>
+        <title imdb="tt0109707">Ed Wood</title>
+        <year>1994</year>
+        <director>Tim Burton</director>
+        <genres>
+            <genre>Biography</genre>
+            <genre>Comedy</genre>
+            <genre>Drama</genre>
+        </genres>
+    </movie>
+    <movie>
+        <title imdb="tt0103776">Batman Returns</title>
+        <year>1992</year>
+        <director>Tim Burton</director>
+        <genres>
+            <genre>Action</genre>
+            <genre>Crime</genre>
+            <genre>Fantasy</genre>
+        </genres>
+    </movie>
+    <movie>
+        <title imdb="tt1502407">Halloween</title>
+        <year>2018</year>
+        <director>David Gordon Green</director>
+        <genres>
+            <genre>Crime</genre>
+            <genre>Drama</genre>
+            <genre>Horror</genre>
+        </genres>
+    </movie>
+</movies>
